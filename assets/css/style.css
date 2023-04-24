@@ -189,6 +189,19 @@ footer a {
 
 
 @media screen and (min-width: 1200px){
+
+    h1{
+        font-size: 3.2rem;
+    }
+
+    h2{
+        font-size: 2.5rem;
+    }
+
+    p, li, td, th, caption, a, address{
+        font-size: 1.8rem;
+    }
+
     header, main, footer{
         max-width: 1170px;
         margin: 0 auto;
